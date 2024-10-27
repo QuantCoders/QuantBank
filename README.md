@@ -23,6 +23,7 @@
 Preconditions:
 - Downloaded [`mingw`](https://www.mingw-w64.org/).
 - Downloaded [`cmake`](https://cmake.org/download/).
+- Downloaded [`nodejs`](https://nodejs.org/en).
 - Windows powershell or other shell.
 
 First time create directory called `build`.
